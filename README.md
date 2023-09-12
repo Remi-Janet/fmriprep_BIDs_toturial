@@ -1,4 +1,4 @@
-# fmriprep_BIDs_toturial 12-Sep-2023
+# fmriprep_BIDs_toturial 15-Sep-2023
 In this tutorial, I will try to give you the keys to store your dataset into a BIDs format and how to launch the basic preprocessing steps using fmriprep.
 
 Here are some information regarding the files:
