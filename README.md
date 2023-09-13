@@ -8,10 +8,9 @@ Here are some information regarding the files:
 - participants.json and participants.tsv are examples of how the file should look in your final folder.
 - fmriprep_20.2.1.slurm is an example of the script to use on the cluster
 
-  All the material comes from: https://andysbrainbook.readthedocs.io/en/latest/index.html  
-        - BIDs format toturial: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/BIDS_Overview.html 
-  
-        - fmriprep running analysis: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_2_RunningAnalysis.html 
+  All the material comes from: https://andysbrainbook.readthedocs.io/en/latest/index.html
+  - BIDs format toturial: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/BIDS_Overview.html
+  - fmriprep running analysis: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_2_RunningAnalysis.html 
 
 The slides corresponding to the course will come soon!
 
