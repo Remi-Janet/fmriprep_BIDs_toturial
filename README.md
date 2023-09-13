@@ -10,9 +10,9 @@ Here are some information regarding the files:
 
   All the material comes from: https://andysbrainbook.readthedocs.io/en/latest/index.html
   
-        ---> BIDs format toturial: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/BIDS_Overview.html
+        ---> BIDs format toturial: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/BIDS_Overview.html 
   
-        ---> fmriprep running analysis: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_2_RunningAnalysis.html
+        ---> fmriprep running analysis: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_2_RunningAnalysis.html 
 
 The slides corresponding to the course will come soon!
 
