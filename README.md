@@ -12,7 +12,7 @@ All the material comes from: https://andysbrainbook.readthedocs.io/en/latest/ind
   - BIDs format tutorial: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/BIDS_Overview.html
   - fmriprep running analysis: https://andysbrainbook.readthedocs.io/en/latest/OpenScience/OS/fMRIPrep_Demo_2_RunningAnalysis.html 
 
-The slides corresponding to the course will come soon!
+Slides available (fmriprep_15Sept2023.pdf)!
 
 Remi Janet
 
